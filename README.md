@@ -2,6 +2,14 @@
 
 Aplicação web acadêmica que representa uma solução de cloud computing conectada à Indústria Espacial.
 
+## Equipe
+
+Gabriel Riqueto Reis
+
+Sabrina Flores Varela de Morais
+
+Leonardo Nicastro Mansur Castillo
+
 ## Produto
 
 **AgroOrbital Cloud** é uma plataforma de monitoramento agrícola que simula o uso de dados orbitais/satélites para identificar saúde da plantação, risco de seca e necessidade de ação em áreas rurais.
